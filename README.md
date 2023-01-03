@@ -6,7 +6,7 @@
 
 - :school: I am a `Senior Student` at Devang Patel Institute of Advance Technology and Research
 
-- :technologist: I love using Software as a solution for every `Problem`
+- :technologist: I love `Developing` Software as a solution for every `Problem`
 
 - :student: I’m currently learning: `Web Development` and `App Development`.
 
