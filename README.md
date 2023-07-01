@@ -24,7 +24,7 @@
 </p>
 @🛠️ My Skills
 
-# 👉 Programming languages
+👉 Programming languages
 <p align="center"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -52,7 +52,7 @@
    </a>
 </p>
 
-# 👉 Programming frameworks
+👉 Programming frameworks
 <p align="center"> 
   &emsp;
   <a href="https://www.w3schools.com/react/" target="_blank">
