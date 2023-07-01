@@ -8,9 +8,9 @@
 
 - :technologist: I love `Developing` Software as a solution for every `Problem`
 
-- :student: I’m currently learning: `Web Development` and `App Development`.
+- :student: I’m currently learning: `Web Development` and `Machine Learning`.
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://pinakthakar.netlify.app/).
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, here is [MY PORTFOLIO](https://pinakthakar.netlify.app/).
 
 - :nerd_face: Always `learning new things`
 
@@ -50,6 +50,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    </a>
+</p>
+# 👉 Programming frameworks
+<p align="center"> 
   &emsp;
   <a href="https://www.w3schools.com/react/" target="_blank">
     <img alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
