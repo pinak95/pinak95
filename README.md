@@ -23,7 +23,8 @@
   	<a href="https://www.youtube.com/leandiabetic/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
 </p>
 @🛠️ My Skills
-
+<br>
+&emsp;
 👉 Programming languages
 <p align="center"> 
   &emsp; 
@@ -51,6 +52,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
    </a>
 </p>
+<br>
 &emsp;
 👉 Programming frameworks
 <p align="center"> 
