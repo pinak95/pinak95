@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Pinak Thakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Machine+Learning+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Machine+Learning+Developer;&center=true&width=500&height=50"></a>
 </p>
 @ :sassy_man:  About me
 
@@ -80,9 +80,5 @@
    &emsp;
   <a href="https://www.figma.com" target="_blank"> 
     <img alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  </a>
-   &emsp;
-  <a href="https://www.canva.com" target="_blank"> 
-    <img alt="CANVA" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-  </a>  
+  </a> 
 </p>
