@@ -10,9 +10,7 @@
 
 - :student: I’m currently learning: `Web Development` and `Machine Learning`.
 
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, here is [MY PORTFOLIO](https://pinakthakar.netlify.app/).
-
-- :nerd_face: I know I am a `Geek`
+- :thinking: I’m currently looking for: `An Intern` or a new `job opportunity`, here is [MY PORTFOLIO](https://pinakthakar.netlify.app/).
 
 @<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
