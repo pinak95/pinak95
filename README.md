@@ -63,7 +63,8 @@
   </a> 
 </p>
 @ 🛠️ My Other Skills
-  
+  <br>
+  <br>
    🎨 Designer
 <p align="center"> 
   &emsp; 
