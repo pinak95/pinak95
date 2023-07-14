@@ -1,10 +1,9 @@
 <h1 align="center">Hello, I'm Pinak Thakar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Machine+Learning+Developer;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Designer;Web+Developer;Machine+Learning+Developer;&center=true&width=500&height=50"></a>
 </p>
 @ :sassy_man:  About me
 
-- :school: I am a `Senior Student` at Devang Patel Institute of Advance Technology and Research
 
 - :technologist: I love `Developing` Software as a solution for every `Problem`
 
