@@ -63,7 +63,8 @@
   </a> 
 </p>
 @ 🛠️ My Other Skills
-  # 🎨 Designer
+  
+   🎨 Designer
 <p align="center"> 
   &emsp; 
   <a href="https://www.adobe.com/products/premiere.html"> 
