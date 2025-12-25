@@ -1,10 +1,12 @@
 # Hello there 👋🏼
 
-## I am a Developer by day ☼ and an Aspiring Content Creator by night ☾
+## I am a Backend & AI Developer by day ☼ and an Aspiring Content Creator by night ☾
 
-- 👨🏻‍💻 **Current Status**: Actively seeking new opportunities in backend development
-- ⚙️ **Tech Stack**: `HTML`, `CSS`, `JavaScript`, `TypeScript`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`, `Supabase`
-- 🛠️ **Tools**: `Replit`, `Bubble.io`, `Make`, `Tally`, `Postman`, `Git`, `Cloudinary`
+- 👨🏻‍💻 **Current Role**: Software Developer at Goodspeed, building AI-powered learning platforms and conversational systems
+- 🎯 **Focus Areas**: Backend Development | AI Integration | Scalable Systems
+- ⚙️ **Backend Stack**: `JavaScript`, `TypeScript`, `Node.js`, `Express.js`, `MongoDB`, `PostgreSQL`, `Supabase`
+- 🤖 **AI & Automation**: `Claude API`, `OpenAI API`, `RAG`, `MCP Servers`, `LangChain`, `n8n`
+- 🛠️ **Tools**: `Git`, `GitHub`, `Postman`, `Cloudinary`, `Make`, `XANO`, `Render`, `Heroku`
 - 🌍 **Portfolio**: [pinak95.onrender.com](https://pinak95.onrender.com/)
 - 💬 **Connect with me**: [LinkedIn](https://www.linkedin.com/in/pinak95/) | [GitHub](https://github.com/pinak95)
 - 📧 **Contact**: [pinak.thakar95@gmail.com](mailto:pinak.thakar95@gmail.com)
@@ -23,13 +25,22 @@ _May 2019 – May 2024 | CGPA: 8.95_
 
 ## 🌞 What I Bring to the Table
 
-- **Leadership & Delivery**: Led teams of 6+ developers across 5+ projects at AGIL f(x), achieving 95% client satisfaction by delivering scalable solutions ahead of schedule.
-- **Performance Optimization**: Reduced API latency by 40% and data volume by 67% through strategic MongoDB optimizations and Mongoose-based transactions.
-- **Scalable Architecture**: Engineered secure, JWT-authenticated APIs with sub-200 ms response times using Node.js, Express.js, and TypeScript, enabling robust application performance.
-- **Database Expertise**: Designed efficient MongoDB and PostgreSQL schemas, leveraging Supabase Row-Level Security to reduce security vulnerabilities by 80%.
-- **Innovation**: Integrated AI-driven workflows at Bub.dev, boosting user engagement by 35% through optimized Bubble.io and Make.com integrations.
-- **Cost Efficiency**: Architected custom JavaScript solutions to eliminate third-party API dependencies, saving $49.99/month in operational costs.
+- **AI-Powered Systems**: Built conversational AI retrieval systems enabling semantic search across 1000+ message threads using Claude API with advanced memory management and context chunking.
+- **Scalable Learning Platforms**: Engineered 7 RESTful API endpoints for xAPI-compliant AI learning platforms, enabling personalized learning pathways for 10K+ students and educators.
+- **Workflow Automation**: Automated recurring team workflows by building n8n integrations connecting Slack, ClickUp, and Google Meet, reducing manual coordination overhead by 50 minutes weekly per developer.
+- **Leadership & Delivery**: Directed cross-functional teams of 6+ professionals across 5+ concurrent projects, achieving 95% client satisfaction through strategic task delegation and stakeholder communication.
+- **Performance Optimization**: Achieved sub-200ms API response times through efficient database architecture and restructured MongoDB collections, reducing data volume by 67%.
+- **Security Excellence**: Enhanced application security with JWT authentication and Supabase Row-Level Security policies, reducing vulnerabilities by 80%.
+- **Cost Efficiency**: Eliminated $49.99 monthly third-party API costs by engineering internal database solutions with custom JavaScript data upsert operations.
 
 ---
 
-_Let’s build something extraordinary together! Connect with me on [LinkedIn](https://www.linkedin.com/in/pinak95/) or explore my [portfolio](https://pinak95.onrender.com/)._
+## 🚀 Current Projects
+
+- **AI Learning Platform Integration**: Building tree-based content mapping architecture for xAPI-compliant systems with adaptive learning algorithms
+- **Conversational AI Systems**: Implementing RAG-based retrieval systems with Claude API for semantic search capabilities
+- **Backend Architecture**: Developing scalable RESTful APIs with Node.js, Express, and TypeScript for production environments
+
+---
+
+_Let's build something extraordinary together! Connect with me on [LinkedIn](https://www.linkedin.com/in/pinak95/) or explore my [portfolio](https://pinak95.onrender.com/)._
